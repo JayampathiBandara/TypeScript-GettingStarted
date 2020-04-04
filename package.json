@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/JayampathiBandara/TypeScript-GettingStarted/issues"
   },
-  "homepage": "https://github.com/JayampathiBandara/TypeScript-GettingStarted#readme"
+  "homepage": "https://github.com/JayampathiBandara/TypeScript-GettingStarted#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
 }
